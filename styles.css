@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 30px;
+    line-height: 1.6;
+}
+
+.instruction {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+p {
+    font-size: 18px;
+}
+
+strong {
+    color: rgb(0, 0, 0);
+}
